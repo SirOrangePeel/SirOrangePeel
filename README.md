@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirOrangePeel
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C# with unity, while making a stealth game
+- 🌱 I’m currently learning C# with unity
 - 📫 How to reach me SirOrangePeel@gmail.com
 
 <!---
